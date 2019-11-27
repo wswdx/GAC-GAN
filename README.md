@@ -1,5 +1,5 @@
 # Appearance-Composing-GAN
-Video examples of "Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer"
+Video examples of "Appearance Composing GAN: A General Method for Appearance-Controllable Human Video Motion Transfer" https://arxiv.org/abs/1911.10672
 
 To watch the example video online, please refer to:
 https://youtu.be/8fhr5bcFM6Y
